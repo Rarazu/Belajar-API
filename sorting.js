@@ -1,3 +1,13 @@
+/**{
+    "key" : "nama",
+    "type" : "descending",
+    "data" : [
+        {"nis":100, "nama":"peter", "umur":20},
+        {"nis":101, "nama":"john", "umur":35},
+        {"nis":102, "nama":"dormamu", "umur":28}
+    ]
+} */
+
 const express = require("express")
 const app = express()
 
